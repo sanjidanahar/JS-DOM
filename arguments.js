@@ -13,3 +13,4 @@ const total = sum(45, 25, 10,22, 16, 11, 20);
 // console.log(total);
 
 console.log(sum.length);
+
